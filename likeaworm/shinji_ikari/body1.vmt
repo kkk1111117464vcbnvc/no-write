@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/likeaworm/shinji_ikari/Body1"
+	$lightwarptexture "models/player/likeaworm/shinji_ikari/toon_all"
+	"$nodecal" "1"
+	
+	
+}

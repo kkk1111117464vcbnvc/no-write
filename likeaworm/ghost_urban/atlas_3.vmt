@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/likeaworm/ghost_urban/atlas_3"
+	"$halflambert" "1"
+	"$nodecal" "1"
+}

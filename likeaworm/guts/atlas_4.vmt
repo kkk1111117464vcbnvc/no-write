@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/likeaworm/guts/atlas_4"
+	"$halflambert" "1"
+	"$nodecal" "1"
+	"$alphatest" "1"
+	"$allowalphatocoverage" "1"
+	"$nocull" "1"
+	"$bumpmap" "models/player/likeaworm/guts/atlas_4_n"
+	"$phongexponenttexture" "models/player/likeaworm/guts/atlas_4_e"
+	"$phong" "1"
+	"$phongboost" "0.54"
+	"$phongfresnelranges" "[1 10 15]"
+	"$phongdisablehalflambert" "1"
+}

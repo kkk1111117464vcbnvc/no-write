@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$nodecal" "1"
+	$basetexture "models/player/likeaworm/ghost_urban/head_shared_eyelashes_d"
+	$bumpmap "models/player/likeaworm/ghost_urban/head_shared_eyelashes_n"
+	$phongexponenttexture "color/black"
+
+	$alphatest 1
+	$allowalphatocoverage 1
+	$nocull 1
+
+	$phong 0
+	$phongexponent 3
+	$phongboost 2.5
+	$phongfresnelranges "[0.05 0.5 1.0]"
+}

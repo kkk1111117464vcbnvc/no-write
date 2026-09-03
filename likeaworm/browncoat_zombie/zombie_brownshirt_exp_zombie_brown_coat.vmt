@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$nodecal" "1"
+	"$basetexture" "models/player/likeaworm/browncoat_zombie/zombie_brownshirt_exp_zombie_brown_coat"
+	"$bumpmap" "models/player/likeaworm/browncoat_zombie/zombie_brownshirt_exp_zombie_brown_coat_normal"
+	"$nocull" 1
+}

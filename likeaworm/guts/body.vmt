@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$nodecal" "1"
+	"$basetexture" "models/player/likeaworm/guts/body"
+	"$bumpmap" "models/player/likeaworm/guts/body_tn"
+	"$color2" "[ 0 0 0 ]"
+   	"$halflambert" "0"
+     	"$nocull" 0
+
+	"$phong" "1"
+	"$phongboost" "0.3"
+	"$phongexponent" 4
+	"$phongfresnelranges" "[7 4 1]"       
+
+	"$ambientocclusion" 1
+	"$ambientocclusiontexture" "models/player/likeaworm/guts/body_occ"
+
+	"$blendtintbybasealpha" "1"
+	"$phongexponenttexture" "models/player/likeaworm/guts/body_occ"
+	"$phongdisablehalflambert"    "1"
+
+}

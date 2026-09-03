@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/likeaworm/shinji_ikari/black"
+	"$nodecal" 1
+}

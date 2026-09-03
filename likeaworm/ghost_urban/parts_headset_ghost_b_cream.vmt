@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$nodecal" "1"
+	$basetexture "models/player/likeaworm/ghost_urban/parts_headset_ghost_b_cream_c"
+	$bumpmap "models/player/likeaworm/ghost_urban/parts_headset_ghost_b_cream_n"
+	$phongexponenttexture "models/player/likeaworm/ghost_urban/parts_headset_ghost_b_cream_e"
+
+	$color2 "[.8 .8 .8]"
+
+	$phong 1
+	$phongboost 1
+	$phongfresnelranges "[0.05 0.5 1.0]"
+	$envmaptint "[.55 .55 .55]"	
+
+	$blendtintbybasealpha 1
+	
+}
