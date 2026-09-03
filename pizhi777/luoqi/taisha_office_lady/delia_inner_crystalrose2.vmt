@@ -1,0 +1,26 @@
+
+"VertexlitGeneric"
+{
+	"$basetexture" "models/pizhi777/luoqi/taisha_office_lady/delia_inner_crystalrose2"
+	"$bumpmap" "models/pizhi777/luoqi/taisha_office_lady/delia_inner_crystalrose2_normal" 
+
+	$phong 1
+	$phongboost .05
+	$phongfresnelranges 4 8 36
+	$normalmapalphaenvmapmask "1"
+	$selfillum 0.3
+	"$halflambert" 1
+	"$nocull" 1
+	"$nodecal" 0
+	"$alphatest" 		0
+	"$translucent" 		1
+
+
+	
+
+	"$rimlight_enable"	1
+	"$rimlight_exp"		2
+	"$rimlight_boost"	3
+
+}
+	

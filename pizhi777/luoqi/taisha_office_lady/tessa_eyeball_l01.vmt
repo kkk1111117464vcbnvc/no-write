@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/pizhi777/luoqi/taisha_office_lady/tessa_pupil_l01"
+	"$iris" "models/pizhi777/luoqi/taisha_office_lady/tessa_pupil_l01"
+	"$halflambert" 1
+	"$nodecal" "1"
+}
+

@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$translucent" 1
+	"$basetexture" "models/pizhi777/luoqi/taisha_office_lady/pc_tessa_hair_grace_scalp"
+	"$halflambert" 1
+	"$nodecal" 1
+	"$nocull" 0
+
+}

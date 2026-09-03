@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$translucent" 1
+	"$basetexture" "models/pizhi777/luoqi/taisha_office_lady/tessa_eyelash"
+	"$halflambert" 1
+	"$nodecal" 1
+	"$nocull" 1
+	"$alphatest" 1
+}

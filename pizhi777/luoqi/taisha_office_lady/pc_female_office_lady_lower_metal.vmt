@@ -1,0 +1,33 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/pizhi777/luoqi/taisha_office_lady/pc_female_office_lady_lower"
+	"$bumpmap" "models/pizhi777/luoqi/taisha_office_lady/pc_female_office_lady_lower_normal"
+
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmaptint" "[1 1 1]" 
+
+	$phong 1
+	$phongboost .02
+	$phongfresnelranges 4 8 36
+	$normalmapalphaenvmapmask "1"
+	$selfillum 0.3
+	"$halflambert" 1
+	"$nocull" 1
+	"$nodecal" 0
+	"$alphatest" 1
+	"$translucent" 0
+
+
+	"$rimlight_enable" 1
+	"$rimlight_exp"    10
+	"$rimlight_boost"  10
+	
+	"$metallic" 		0.7
+	"$smoothness" 		0.7
+	"$dielectric"		0.3
+	
+	
+	"$surface" "metal"
+	// "$pbrmap" "models/pizhi777/luoqi/taisha_office_lady/pc_female_office_lady_lower_metal_pbr"
+}

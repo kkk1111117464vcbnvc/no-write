@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/pizhi777/luoqi/taisha_office_lady/delia_inner_crystalrose"
+	"$bumpmap" "models/pizhi777/luoqi/taisha_office_lady/delia_inner_crystalrose_normal" 
+
+	"$halflambert"		1
+	"$nocull"		0
+	"$nodecal" 		1
+	"$alphatest" 		1
+	"$translucent" 		0
+
+	// "$envmapmask"		""
+
+	"$phong_enable"		1
+	"$phongexponentmap"	""
+	"$phongexponent" 	5
+	"$phongboost" 		1
+
+	"$rimlight_enable"	1
+	"$rimlight_exp"		2
+	"$rimlight_boost"	3
+
+}
+	

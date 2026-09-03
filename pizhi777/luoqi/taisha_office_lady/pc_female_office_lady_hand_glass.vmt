@@ -1,0 +1,29 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/pizhi777/luoqi/taisha_office_lady/pc_female_office_lady_hand_glass"
+	"$bumpmap" "models/pizhi777/luoqi/taisha_office_lady/pc_female_office_lady_hand_glass_normal"
+
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmaptint" "[1 1 1]" 
+
+	"$halflambert" 0
+	"$nocull" 0
+	"$nodecal" 1
+	"$alphatest" 0
+	"$translucent" 1
+
+
+	"$rimlight_enable" 0
+	"$rimlight_exp"    10
+	"$rimlight_boost"  70
+	"$rimlight_boost"  70
+	
+	"$metallic" 		0.8
+	"$smoothness" 		0.8
+	"$dielectric"		0.2
+	
+	
+	"$surface" "metal"
+	// "$pbrmap" "models/pizhi777/luoqi/danya_phoenix/pc_female_office_lady_hand_metal_pbr"
+}
